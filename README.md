@@ -3,7 +3,7 @@
 
 
 
-Dicas e links para melhorar o conhecimeto em Java Back-end:
+Dicas e links para melhorar o conhecimento em Java Back-end :
 <br>
 <br>
 
