@@ -14,4 +14,4 @@ Dicas e links para melhorar o conhecimento em Java Back-end :
 <br>
 <br>
 
-<a href="https://www.learnjavaonline.org/en/">Java link2</a>
+<a href="https://www.learnjavaonline.org/en/">LearnJavaOnline</a>
