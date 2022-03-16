@@ -18,4 +18,8 @@ Dicas e links para melhorar o conhecimento em Java Back-end :
 
 <a href="https://www.geeksforgeeks.org/java-developer-learning-path-a-complete-roadmap/">RoadMap Java</a>
 
+<a href="https://www.youtube.com/user/dfjug/videos">Videos Comunidade DFJUG </a>
+
+
+
 
